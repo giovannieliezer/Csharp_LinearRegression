@@ -1,0 +1,32 @@
+D:\PROGRAMMING\MACHINE LEARNING\LinearRegression\LinearRegression\bin\Debug\net5.0\LinearRegression.exe
+D:\PROGRAMMING\MACHINE LEARNING\LinearRegression\LinearRegression\bin\Debug\net5.0\LinearRegression.deps.json
+D:\PROGRAMMING\MACHINE LEARNING\LinearRegression\LinearRegression\bin\Debug\net5.0\LinearRegression.runtimeconfig.json
+D:\PROGRAMMING\MACHINE LEARNING\LinearRegression\LinearRegression\bin\Debug\net5.0\LinearRegression.runtimeconfig.dev.json
+D:\PROGRAMMING\MACHINE LEARNING\LinearRegression\LinearRegression\bin\Debug\net5.0\LinearRegression.dll
+D:\PROGRAMMING\MACHINE LEARNING\LinearRegression\LinearRegression\bin\Debug\net5.0\ref\LinearRegression.dll
+D:\PROGRAMMING\MACHINE LEARNING\LinearRegression\LinearRegression\bin\Debug\net5.0\LinearRegression.pdb
+D:\PROGRAMMING\MACHINE LEARNING\LinearRegression\LinearRegression\obj\Debug\net5.0\LinearRegression.csproj.AssemblyReference.cache
+D:\PROGRAMMING\MACHINE LEARNING\LinearRegression\LinearRegression\obj\Debug\net5.0\LinearRegression.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMMING\MACHINE LEARNING\LinearRegression\LinearRegression\obj\Debug\net5.0\LinearRegression.AssemblyInfoInputs.cache
+D:\PROGRAMMING\MACHINE LEARNING\LinearRegression\LinearRegression\obj\Debug\net5.0\LinearRegression.AssemblyInfo.cs
+D:\PROGRAMMING\MACHINE LEARNING\LinearRegression\LinearRegression\obj\Debug\net5.0\LinearRegression.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\MACHINE LEARNING\LinearRegression\LinearRegression\obj\Debug\net5.0\LinearRegression.dll
+D:\PROGRAMMING\MACHINE LEARNING\LinearRegression\LinearRegression\obj\Debug\net5.0\ref\LinearRegression.dll
+D:\PROGRAMMING\MACHINE LEARNING\LinearRegression\LinearRegression\obj\Debug\net5.0\LinearRegression.pdb
+D:\PROGRAMMING\MACHINE LEARNING\LinearRegression\LinearRegression\obj\Debug\net5.0\LinearRegression.genruntimeconfig.cache
+D:\PROGRAMMING\MACHINE LEARNING\LINEAR REGRESSION\LinearRegression\LinearRegression\bin\Debug\net5.0\LinearRegression.exe
+D:\PROGRAMMING\MACHINE LEARNING\LINEAR REGRESSION\LinearRegression\LinearRegression\bin\Debug\net5.0\LinearRegression.deps.json
+D:\PROGRAMMING\MACHINE LEARNING\LINEAR REGRESSION\LinearRegression\LinearRegression\bin\Debug\net5.0\LinearRegression.runtimeconfig.json
+D:\PROGRAMMING\MACHINE LEARNING\LINEAR REGRESSION\LinearRegression\LinearRegression\bin\Debug\net5.0\LinearRegression.runtimeconfig.dev.json
+D:\PROGRAMMING\MACHINE LEARNING\LINEAR REGRESSION\LinearRegression\LinearRegression\bin\Debug\net5.0\LinearRegression.dll
+D:\PROGRAMMING\MACHINE LEARNING\LINEAR REGRESSION\LinearRegression\LinearRegression\bin\Debug\net5.0\ref\LinearRegression.dll
+D:\PROGRAMMING\MACHINE LEARNING\LINEAR REGRESSION\LinearRegression\LinearRegression\bin\Debug\net5.0\LinearRegression.pdb
+D:\PROGRAMMING\MACHINE LEARNING\LINEAR REGRESSION\LinearRegression\LinearRegression\obj\Debug\net5.0\LinearRegression.csproj.AssemblyReference.cache
+D:\PROGRAMMING\MACHINE LEARNING\LINEAR REGRESSION\LinearRegression\LinearRegression\obj\Debug\net5.0\LinearRegression.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMMING\MACHINE LEARNING\LINEAR REGRESSION\LinearRegression\LinearRegression\obj\Debug\net5.0\LinearRegression.AssemblyInfoInputs.cache
+D:\PROGRAMMING\MACHINE LEARNING\LINEAR REGRESSION\LinearRegression\LinearRegression\obj\Debug\net5.0\LinearRegression.AssemblyInfo.cs
+D:\PROGRAMMING\MACHINE LEARNING\LINEAR REGRESSION\LinearRegression\LinearRegression\obj\Debug\net5.0\LinearRegression.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\MACHINE LEARNING\LINEAR REGRESSION\LinearRegression\LinearRegression\obj\Debug\net5.0\LinearRegression.dll
+D:\PROGRAMMING\MACHINE LEARNING\LINEAR REGRESSION\LinearRegression\LinearRegression\obj\Debug\net5.0\ref\LinearRegression.dll
+D:\PROGRAMMING\MACHINE LEARNING\LINEAR REGRESSION\LinearRegression\LinearRegression\obj\Debug\net5.0\LinearRegression.pdb
+D:\PROGRAMMING\MACHINE LEARNING\LINEAR REGRESSION\LinearRegression\LinearRegression\obj\Debug\net5.0\LinearRegression.genruntimeconfig.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinearRegression", "LinearRegression\LinearRegression.csproj", "{8843A537-7778-4FC1-9D51-E8B33B91DF58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearRegressionMathNET", "LinearRegressionMathNET\LinearRegressionMathNET.csproj", "{CD55CAE0-3450-4C75-B442-3AD956EE516D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8843A537-7778-4FC1-9D51-E8B33B91DF58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8843A537-7778-4FC1-9D51-E8B33B91DF58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8843A537-7778-4FC1-9D51-E8B33B91DF58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8843A537-7778-4FC1-9D51-E8B33B91DF58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD55CAE0-3450-4C75-B442-3AD956EE516D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD55CAE0-3450-4C75-B442-3AD956EE516D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD55CAE0-3450-4C75-B442-3AD956EE516D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD55CAE0-3450-4C75-B442-3AD956EE516D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A5EFC1F-09A2-4C9B-B7EA-EF3D1DBC9E81}
+	EndGlobalSection
+EndGlobal

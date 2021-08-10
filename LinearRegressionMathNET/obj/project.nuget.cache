@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w602ptEUUUG36lS/XtEqTIemRNzz0WtoKbgA6Qh5SobjzL0dKgVH/vOuynHM7hxNxyhX620kCNtzjuaeuqq98w==",
+  "success": true,
+  "projectFilePath": "D:\\PROGRAMMING\\MACHINE LEARNING\\LINEAR REGRESSION\\LinearRegression\\LinearRegressionMathNET\\LinearRegressionMathNET.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SESA447381\\.nuget\\packages\\mathnet.numerics\\4.15.0\\mathnet.numerics.4.15.0.nupkg.sha512"
+  ],
+  "logs": []
+}
